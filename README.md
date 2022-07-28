@@ -1,4 +1,4 @@
-# Bootstrap 5 Cheat-Sheet by freeCodeCamp
+# Bootstrap 5 Cheat Sheet by freeCodeCamp
 Fork repo from freeCodeCamp bootstrap-5
 
 ## References & Credits
