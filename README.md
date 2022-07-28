@@ -14,4 +14,19 @@ Fork repo from freeCodeCamp bootstrap-5
 - [PicSum](https://picsum.photos/)
 
 ## Content
-
+- Using compiled CSS and JS
+- Using CDN
+- Using NPM
+- Grid System 
+- Components
+- Buttons
+- Cards
+- Typography
+- Responsive images
+- Utilities
+- Tables
+- Alerts 
+- Navs & Navbars
+- Icons
+- Forms
+- Other components 
